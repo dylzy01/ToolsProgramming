@@ -1,0 +1,4 @@
+﻿  Week_3_Calculator.cpp
+c:\users\dylan\documents\github\toolsprogramming\week_3_calculator\week_3_calculator\week_3_calculator.cpp(299): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Week_3_Calculator.vcxproj -> C:\Users\dylan\Documents\GitHub\ToolsProgramming\Week_3_Calculator\Debug\Week_3_Calculator.exe
+  Week_3_Calculator.vcxproj -> C:\Users\dylan\Documents\GitHub\ToolsProgramming\Week_3_Calculator\Debug\Week_3_Calculator.pdb (Full PDB)
